@@ -1,7 +1,7 @@
 <h2>MEAN stack authentication App with</h2>
 
 -Express Backend<br/>
--Angular-CLI (for frontend components) and <br/><br/>
+-Angular-CLI (for frontend components) and <br/>
 -JSON Web Tokens for individualised logins and data usage
 
 <h2>How to run App</h2>
